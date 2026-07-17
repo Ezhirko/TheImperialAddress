@@ -1,0 +1,25 @@
+# Virtual environments
+mygate/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel temporary files
+~$*.xlsx
+
+# OS files
+Thumbs.db
+.DS_Store
